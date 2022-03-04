@@ -9,7 +9,7 @@ resale value, by analyzing [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.d
 
 ## Dataset
 
-The entire dataset can be found [here](https://data.world/data-society/used-cars-data). For this analysis we have sampled 50,000 data points that was prepared by [Dataquest](https://www.dataquest.io/) including simulating a less-cleaned version of the data. Below are the description of the columns present in the dataset.
+The entire dataset can be found [here](https://data.world/data-society/used-cars-data). Below are the description of the columns present in the dataset.
 
 * `dateCrawled`: When this ad was first crawled. All field-values are taken from this date.
 * `name`: Name of the car.
